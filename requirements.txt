@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.23.0
+requests==2.31.0
+pydantic==1.11.1
+python-dotenv==1.0.0
+twilio==7.23.1
+flask
+python-dotenv
