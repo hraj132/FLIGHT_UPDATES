@@ -27,3 +27,6 @@ The Flight Status Checker application provides real-time updates on flight statu
 ### Frontend
 
 2. npm start
+
+   ![Screenshot (251)](https://github.com/user-attachments/assets/c7e41cba-8b0d-4c57-945e-0b9edaa5e3aa)
+
