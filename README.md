@@ -10,8 +10,7 @@ The Flight Status Checker application provides real-time updates on flight statu
 - **Backend**: FastAPI (Python)
 - **Database**: MongoDB (local)
 - **SMS Service**: Twilio
-- **Flight Data**: `airportdb.io` API
-
+ 
 ## Prerequisites
 
 1. **Python**: Ensure Python 3.7 or higher is installed.
@@ -23,7 +22,8 @@ The Flight Status Checker application provides real-time updates on flight statu
 
 ### Backend
 
-1. **Navigate to the Backend Directory**
+1. cd backend
+   
+### Frontend
 
-   ```bash
-   cd backend
+2. npm start
